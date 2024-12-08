@@ -1,6 +1,6 @@
-# Duly Noted
+# DulyNoted
 
-**Duly Noted** is a simple, clean, and aesthetic journal/notes app built with **Next.js** and **Tailwind CSS**. It provides a clutter-free, productivity-focused writing space with automatic saving, dark/light mode, and a sleek, user-friendly design. 
+**DulyNoted** is a simple, clean, and aesthetic journal/notes app built with **Next.js** and **Tailwind CSS**. It provides a clutter-free, productivity-focused writing space with automatic saving, dark/light mode, and a sleek, user-friendly design. 
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## Contributing
 
-If you'd like to contribute to **Duly Noted**, follow these steps:
+If you'd like to contribute to **DulyNoted**, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature`.
